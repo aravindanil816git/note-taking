@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: #fff;
+  display: flex;
+  border-radius: 10px;
+  min-height: 70%;
+  min-width: 80%;
+}
+
+.wrapper {
+  background: #f7f8fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 0 8%;
+}
+
+body {
+  margin: 0;
+}

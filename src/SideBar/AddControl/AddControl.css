@@ -1,0 +1,18 @@
+.addBtn {
+  font-size: 18px;
+  background: black;
+  border: none;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  color: #fff;
+}
+
+.colorpanel {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.colorpanel.closed {
+  display: none;
+}

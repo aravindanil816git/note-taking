@@ -1,0 +1,20 @@
+.title {
+  font-size: 40px;
+  font-weight: 700;
+  display: flex;
+  justify-content: left;
+}
+
+.notes-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.notes-section {
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+}
